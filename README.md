@@ -18,10 +18,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-org/0shot/stargazers"><img src="https://img.shields.io/github/stars/your-org/0shot?style=flat-square" alt="Stars" /></a>
-  <a href="https://github.com/your-org/0shot/blob/main/LICENSE"><img src="https://img.shields.io/github/license/your-org/0shot?style=flat-square" alt="License" /></a>
-  <a href="https://discord.gg/YOUR_INVITE"><img src="https://img.shields.io/discord/000000000?style=flat-square&label=Discord" alt="Discord" /></a>
-  <a href="https://github.com/your-org/0shot/issues"><img src="https://img.shields.io/github/issues/your-org/0shot?style=flat-square" alt="Issues" /></a>
+  <a href="https://github.com/nicolas-palermo/0shot/stargazers"><img src="https://img.shields.io/github/stars/your-org/0shot" alt="Stars" /></a>
+  <a href="https://github.com/nicolas-palermo/0shot/blob/main/LICENSE"><img src="https://img.shields.io/github/license/your-org/0shot" alt="License" /></a>
+  <a href="https://discord.gg/WjUHAKvY6B"><img src="https://img.shields.io/discord/1477416404448968897?label=Discord" alt="Discord" /></a>
+  <a href="https://github.com/nicolas-palermo/0shot/issues"><img src="https://img.shields.io/github/issues/your-org/0shot" alt="Issues" /></a>
 </p>
 
 ---
